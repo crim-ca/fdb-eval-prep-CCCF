@@ -380,9 +380,8 @@ python scripts/csv_to_manifest.py \
 
 ## License
 
-[Specify license if applicable]
+MIT License
 
 ## Contact
 
-For issues or questions, refer to the Full-Duplex-Bench repository:
-https://github.com/DanielLin94144/Full-Duplex-Bench
+For issues or questions about Full-Duplex-Bench, refer to the repository https://github.com/DanielLin94144/Full-Duplex-Bench
